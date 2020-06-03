@@ -1,0 +1,29 @@
+body {
+  background-color: #30475e;
+  text-align: center;
+  color: #43d8c9;
+}
+
+h1 {
+  /* font-family: 'Leckerli One', cursive; */
+  /* font-family: 'Merienda', cursive; */
+  font-family: 'Lobster', cursive;
+  font-size: 5rem;
+}
+
+.dice-display {}
+
+.dice-img {
+  padding: 5% 1.5%;
+  height: 7rem;
+}
+
+.player-lbl {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  padding: 0 3%;
+}
+
+.foot-cls {
+  color: white;
+}
